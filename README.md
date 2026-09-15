@@ -1,49 +1,8 @@
-<div align="center">
+<h3 align="center">A passionate frontend developer from India</h3>
 
-# ¡Hola! Soy Miler 👋
-### Ingeniería de Software · Soporte y Mantenimiento de Equipos de Cómputo (SENATI)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-<br>
-
-<a href="https://www.linkedin.com/in/miler-alexander-rodriguez-rojas-b1b9a3323/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:mileralexander2003@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
-
-</div>
-
-<br>
-
-Empecé del lado del hardware: diagnóstico y mantenimiento preventivo de PCs y laptops, electrónica básica. Ahora estoy construyendo desde el otro lado, como estudiante de Ingeniería de Software, y disfruto especialmente entender cómo funciona un sistema de punta a punta — del chip a la interfaz.
-
-<br>
-
-<div align="center">
-
-### Con lo que trabajo
-
-<img src="https://skillicons.dev/icons?i=python,cpp,html,css,js,vue,angular,git&theme=light" />
-
-</div>
-
-<br>
-
-## 🚀 Proyectos destacados
-
-<!-- Reemplaza esto con tus proyectos reales -->
-
-> **[Nombre del proyecto](#)** — una frase de qué hace y con qué está construido.
->
-> **[Nombre del proyecto](#)** — una frase de qué hace y con qué está construido.
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Miler2003&show_icons=true&hide_border=true&theme=default&hide_title=true&text_color=333333&icon_color=0A66C2&title_color=000000" height="150"/>
-
-</div>
-
-<br>
-
-<div align="center">
-<sub>📫 mileralexander2003@gmail.com</sub>
-</div>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
