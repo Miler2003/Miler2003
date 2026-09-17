@@ -5,7 +5,7 @@
 <table>
 <tr>
 <td width="140" valign="top">
-<img src="./assets/avatar.png" width="120" style="border-radius:12px"/>
+<img src="./assets/avatar.jpg" width="120" style="border-radius:12px"/>
 </td>
 <td valign="top">
 
