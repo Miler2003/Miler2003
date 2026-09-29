@@ -30,8 +30,6 @@
 </table>
 </div>
 
-> 💡 **Nota / Note:** reemplaza `./assets/avatar.jpg` por la ruta real de tu foto en tu repo `Miler2003/Miler2003` (crea una carpeta `assets/` y súbela ahí), o usa una URL pública de imagen. / Replace `./assets/avatar.jpg` with your actual photo path in your `Miler2003/Miler2003` repo (create an `assets/` folder and upload it there), or use a public image URL.
-
 <br>
 
 <table>
